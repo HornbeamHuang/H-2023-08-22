@@ -1,0 +1,498 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"50ed66d0-c3b9-4df6-a2e2-b5719aea979a\" name=\"变更\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"“HornbeamHuang” &lt;1306075757@qq.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2UJuisJb07ULKvU05VxPQ7LGqjP\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"ChangesTree.GroupingKeys\" value=\"\" />\r\n    <property name=\"GitStage.ChangesTree.GroupingKeys\" value=\"directory&#10;module&#10;repository\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"H-2023-08-22\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"50ed66d0-c3b9-4df6-a2e2-b5719aea979a\" name=\"变更\" comment=\"\" />\r\n      <created>1692670135808</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692670135808</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"H-Git\">\r\n      <created>1692671514709</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692671514709</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"H-Git\">\r\n      <created>1692671613470</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692671613470</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"e2747ef5-ceb3-4886-9679-9d7d1d6dea93\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"H-Git\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"H-Git\" />\r\n    <option name=\"REFORMAT_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/.idea/workspace.xml	(date 1692673945767)
+@@ -20,6 +20,11 @@
+         <option value="“HornbeamHuang” &lt;1306075757@qq.com&gt;" />
+       </list>
+     </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="SIGN_OFF_COMMIT" value="true" />
+   </component>
+@@ -51,7 +56,7 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+   </component>
+-  <component name="RunManager">
++  <component name="RunManager" selected="Python.read_ini">
+     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="H-2023-08-22" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -73,6 +78,32 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
++    <configuration name="read_ini" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="H-2023-08-22" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common/public" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/public/read_ini.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Python.read_ini" />
++      </list>
++    </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+@@ -111,7 +142,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="HEAD" />
++                        <option value="dev-2023-08-22" />
+                       </list>
+                     </value>
+                   </entry>
+Index: common/public/getdata.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/common/public/getdata.py b/common/public/getdata.py
+--- a/common/public/getdata.py	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/common/public/getdata.py	(date 1692674391203)
+@@ -1,0 +1,56 @@
++"""
++Author:Hornbeam
++product:PyCharm
++prpject:H-2023-08-22
++name:getdata
++user:Administrator
++日期:2023/08/22 11:12
++-------------------------------------
++"""
++from common.public.read_ini import Configuration
++from common.public import project_path
++
++
++class GetData:
++    timeout = 8.0
++    base_url = Configuration(project_path.config_path).read_str('URL', 'url')
++    button = Configuration(project_path.config_path).read_str('CASE', 'button')
++    headers = {
++        'appId': 'jljs',
++        'platform': 'jljs',
++        'deviceId': '9267',
++        'imei': '',
++        'deviceBrand': 'vivo',
++        'deviceInfo': 'vivo_V2001A',
++        'sourceCode': 'app',
++        'version': '1.5.1',
++        'os': 'android',
++        'androidId': 'dc0de9ff14a64f20',
++        'deviceImei': '',
++        'channelCode': 'oi35vu',
++        'oaid': '826ec7b020667b5026c8ecc42c166eaa2fc2273fcd8c54396c302627af429dcb'
++    }
++    # 盲盒ID
++    id = ''
++    # 提货地址Id
++    addrId = ''
++    # 提货商品id
++    goodsId = ""
++    pick_id = ''
++    # 商品订单号
++    outTradeNo = ''
++    # 替换商品id
++    replaceId = ''
++    # 取消订单ID
++    orderId = ''
++    # 商城类目ID
++    categoryId = ''
++    # 兑换商品id
++    exchangeId = ''
++    # 支付方式
++    pay_type = ''
++
++
++if __name__ == '__main__':
++    print(GetData().base_url)
++    # 18583168310
+Index: common/public/logger.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/common/public/logger.py b/common/public/logger.py
+--- a/common/public/logger.py	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/common/public/logger.py	(date 1692674342991)
+@@ -1,0 +1,71 @@
++"""
++Author:Hornbeam
++product:PyCharm
++prpject:H-2023-08-22
++name:logger
++user:Administrator
++日期:2023/08/22 11:18
++-------------------------------------
++"""
++# -*- coding:utf-8 -*-
++import logging
++from common.public import project_path
++from common.public.read_ini import Configuration
++
++
++class MyLog:
++    def __init__(self):
++        self.logger_level = Configuration(project_path.config_path).read_str('LOG', 'logger_level')
++        self.file_level = Configuration(project_path.config_path).read_str('LOG', 'file_level')
++        self.file_name = Configuration(project_path.config_path).read_str('LOG', 'file_name')
++        self.formatter = Configuration(project_path.config_path).read_str('LOG', 'formatter')
++        self.log_name = project_path.log_path
++
++    def my_log(self, level, msg):
++        my_logger = logging.getLogger(self.file_name)
++        my_logger.setLevel(self.logger_level)
++        formatter = logging.Formatter(self.formatter)
++        fh = logging.FileHandler(self.log_name, encoding='utf-8')
++        fh.setLevel(self.file_level)
++        fh.setFormatter(formatter)
++        ch = logging.StreamHandler()
++        ch.setLevel(self.file_level)
++        ch.setFormatter(formatter)
++
++        # 对接
++        my_logger.addHandler(fh)
++        my_logger.addHandler(ch)
++
++        if level == 'DEBUG':
++            my_logger.debug(msg)
++        elif level == 'INFO':
++            my_logger.info(msg)
++        elif level == 'WARNING':
++            my_logger.warning(msg)
++        elif level == 'ERROR':
++            my_logger.error(msg)
++        else:
++            my_logger.critical(msg)
++
++        my_logger.removeHandler(ch)
++        my_logger.removeHandler(fh)
++
++    def debug(self, msg):
++        self.my_log('DEBUG', msg)
++
++    def info(self, msg):
++        self.my_log('INFO', msg)
++
++    def warning(self, msg):
++        self.my_log('WARNING', msg)
++
++    def error(self, msg):
++        self.my_log('ERROR', msg)
++
++    def critical(self, msg):
++        self.my_log('CRITICAL', msg)
++
++
++if __name__ == '__main__':
++    p = MyLog()
++    p.error('睡觉啦！！！')
+Index: package.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/package.txt b/package.txt
+--- a/package.txt	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/package.txt	(date 1692674295069)
+@@ -1,0 +1,171 @@
++adbutils==0.11.0
++allure-pytest==2.8.19
++allure-python-commons==2.8.19
++amqp==5.1.0
++apin==1.1.3
++apkutils2==1.0.0
++appdirs==1.4.4
++Appium-Python-Client==1.0.2
++asgiref==3.5.0
++asttokens==2.0.4
++atomicwrites==1.4.0
++attrs==20.3.0
++backcall==0.2.0
++bcrypt==3.2.0
++beautifulsoup4==4.9.3
++billiard==3.6.4.0
++blinker==1.4
++bs4==0.0.1
++cached-property==1.5.2
++celery==5.2.3
++certifi==2021.10.8
++cffi==1.14.3
++chardet==3.0.4
++charset-normalizer==2.0.12
++cigam==0.0.3
++click==8.0.4
++click-didyoumean==0.3.0
++click-plugins==1.1.1
++click-repl==0.2.0
++colorama==0.4.4
++comtypes==1.1.11
++ConfigArgParse==1.2.3
++cryptography==3.3.1
++ddt==1.4.2
++decorator==5.1.1
++Deprecated==1.2.13
++deprecation==2.1.0
++DingtalkChatbot==1.5.2
++distlib==0.3.1
++Django==3.2.11
++django-cors-headers==3.11.0
++django-filter==21.1
++djangorestframework==3.13.1
++djangorestframework-simplejwt==5.0.0
++et-xmlfile==1.0.1
++executing==0.5.4
++facebook-wda==1.4.3
++Faker==13.3.2
++filelock==3.4.2
++Flask==1.1.2
++Flask-BasicAuth==0.2.0
++Flask-Cors==3.0.10
++gevent==20.9.0
++geventhttpclient==1.4.4
++greenlet==0.4.17
++h11==0.12.0
++h2==4.0.0
++hpack==4.0.0
++hyperframe==6.0.1
++icecream==2.1.0
++idna==3.3
++importlib-metadata==4.11.3
++iniconfig==1.1.1
++ipython==7.32.0
++itsdangerous==1.1.0
++jdcal==1.4.1
++jedi==0.18.1
++Jinja2==2.10.1
++JPype1==1.2.1
++jsonpath==0.82
++jsonschema==3.2.0
++kaitaistruct==0.9
++kombu==5.2.4
++lemon-easytest==1.1a2
++lml==0.1.0
++locust==1.3.2
++logzero==1.7.0
++lxml==4.6.2
++MarkupSafe==1.1.1
++matplotlib-inline==0.1.3
++MouseInfo==0.1.3
++msgpack==1.0.0
++munch==2.5.0
++mysqlclient==2.1.0
++Naked==0.1.31
++numpy==1.20.1
++opencv-python==4.5.1.48
++openpyxl==3.0.9
++packaging==21.3
++pandas==1.2.4
++paramiko==2.7.2
++parso==0.8.3
++pickleshare==0.7.5
++Pillow==8.1.0
++pipenv==2021.5.29
++platformdirs==2.4.1
++pluggy==0.13.1
++prettytable==2.0.0
++progress==1.6
++prompt-toolkit==3.0.28
++psutil==5.7.3
++py==1.9.0
++pyasn1==0.4.8
++PyAutoGUI==0.9.52
++pycparser==2.20
++pycryptodomex==3.10.1
++pydivert==2.1.0
++pyelftools==0.27
++pyexcel-io==0.6.4
++pyexcel-xls==0.6.2
++PyGetWindow==0.0.9
++Pygments==2.11.2
++PyJWT==2.3.0
++PyMsgBox==1.0.9
++PyMySQL==1.0.2
++PyNaCl==1.4.0
++pyOpenSSL==20.0.1
++pyparsing==3.0.7
++pyperclip==1.8.2
++pypiwin32==223
++PyRect==0.1.4
++pyrsistent==0.17.3
++PyScreeze==0.1.27
++PySocks==1.7.1
++pytesseract==0.3.7
++pytest==6.1.2
++pytest-html==2.1.1
++pytest-metadata==1.10.0
++pytest-ordering==0.6
++pytest-rerunfailures==9.1.1
++python-dateutil==2.8.1
++PyTweening==1.0.3
++pytz==2021.3
++pywin32==228
++pywinauto==0.6.8
++PyYAML==6.0
++pyzmq==19.0.2
++redis==4.1.4
++requests==2.27.1
++requests-toolbelt==0.9.1
++retry==0.9.2
++rsa==4.7.2
++selenium==3.141.0
++shellescape==3.8.1
++six==1.16.0
++soupsieve==2.2.1
++sqlparse==0.4.2
++text-unidecode==1.3
++toml==0.10.2
++tornado==6.1
++traitlets==5.1.1
++typing_extensions==4.1.1
++uiautomator2==2.16.14
++unittestreport==1.1.10
++urllib3==1.26.8
++vine==5.0.0
++virtualenv==20.13.0
++virtualenv-clone==0.5.6
++wcwidth==0.2.5
++weditor==0.1.0
++Werkzeug==1.0.1
++whichcraft==0.6.1
++wrapt==1.14.0
++wsproto==1.0.0
++xlrd==1.2.0
++xlwt==1.3.0
++xmltodict==0.12.0
++xvfbwrapper==0.2.9
++zipp==3.7.0
++zope.event==4.5.0
++zope.interface==5.2.0
+\ No newline at end of file
+Index: common/public/read_ini.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/common/public/read_ini.py b/common/public/read_ini.py
+--- a/common/public/read_ini.py	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/common/public/read_ini.py	(date 1692673842790)
+@@ -1,0 +1,31 @@
++"""
++Author:Hornbeam
++product:PyCharm
++prpject:H-2023-08-22
++name:read_ini
++user:Administrator
++日期:2023/08/22 11:10
++-------------------------------------
++"""
++# -*- coding:utf-8 -*-
++from configparser import ConfigParser
++from common.public import project_path
++
++
++class Configuration:
++    def __init__(self, file_name):
++        self.cf = ConfigParser()
++        self.cf.read(file_name, encoding='utf-8')
++
++    def read_str(self, section, option):
++        value = self.cf.get(section, option)
++        return value
++
++    def read_else(self, section, option):
++        value = self.cf.get(section, option)
++        return eval(value)
++
++
++if __name__ == '__main__':
++    p = Configuration(project_path.config_path)
++    print(p.read_str('data', 'password'))
+Index: common/public/project_path.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/common/public/project_path.py b/common/public/project_path.py
+--- a/common/public/project_path.py	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/common/public/project_path.py	(date 1692674391198)
+@@ -1,0 +1,32 @@
++"""
++Author:Hornbeam
++product:PyCharm
++prpject:H-2023-08-22
++name:project_path
++user:Administrator
++日期:2023/08/22 11:09
++-------------------------------------
++"""
++# -*- coding:utf-8 -*-
++import os
++import time
++
++path = os.path.split(os.path.split(os.path.split(os.path.realpath(__file__))[0])[0])[0]
++# 日志路径
++now = time.strftime('%Y-%m-%d')
++time_path = now + '.txt'
++log_path = os.path.join(path, 'logs', time_path)
++
++# 配置文件路径
++config_path = os.path.join(path, 'common', 'conf', 'case_option.ini')
++# print(config_path)
++
++# 测试用例目录
++cases_path = os.path.join(path, 'cases')
++
++# 测试报告目录
++report_path = os.path.join(path, 'reports')
++
++# 用例数据目录
++cases_data_path = os.path.join(path, 'data', 'cases.yaml')
++# cases_data_path = os.path.join(path, 'data', 'cases.xlsx')
+Index: common/public/__init__.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/common/public/__init__.py b/common/public/__init__.py
+--- a/common/public/__init__.py	(revision 7fb1ba4217a7e305e59b520c7a7e44b5357a6aa0)
++++ b/common/public/__init__.py	(date 1692673691437)
+@@ -1,0 +1,9 @@
++"""
++Author:Hornbeam
++product:PyCharm
++prpject:H-2023-08-22
++name:__init__.py
++user:Administrator
++日期:2023/08/22 11:07
++-------------------------------------
++"""
