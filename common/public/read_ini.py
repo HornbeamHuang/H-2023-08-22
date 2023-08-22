@@ -28,4 +28,4 @@ class Configuration:
 
 if __name__ == '__main__':
     p = Configuration(project_path.config_path)
-    print(p.read_str('data', 'password'))
+    print(p.read_str('DingTalk', 'Secret'))

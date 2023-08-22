@@ -37,7 +37,7 @@ class DingTalk:
             "msgtype": "actionCard",
             "actionCard": {
                 "title": "H-2023-08-22",
-                "text": 'H-2023-08-22',
+                "text": msg,
                 "singleTitle": "查看报告",
                 "singleURL": link
             },
